@@ -19,3 +19,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dao-trung-hieu&show_icons=true&locale=en&layout=compact" alt="dao-trung-hieu" /></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dao-trung-hieu&theme=solarized)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dao-trung-hieu&theme=solarized)
