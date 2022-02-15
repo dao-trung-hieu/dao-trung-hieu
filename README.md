@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Dao Trung Hieu</h1>
-<h3 align="center">A self-taught person to become a data analyst</h3>
+<h3 align="center">Have a good day</h3>
 
 - 🌱 I’m currently learning **data analysis**
 
